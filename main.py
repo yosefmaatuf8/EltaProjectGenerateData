@@ -6,3 +6,9 @@
 שימוש במינוחים לא מדוייקים
 הוספה של "אה"
 """
+
+
+"""
+handeling gpu
+local db (should be easy)
+"""
