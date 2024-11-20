@@ -1,0 +1,5 @@
+Equipment Malfunction | type(string: shell, gun, helmet, drown), site(place), malfunctionLevel(Int), urgency(int), description(string. should be short!!),
+Platoon Report | id(string), type(), casualties(int), site(name of city), status(Active, ...), morale(high, low)
+Attack Overview | site(name of city), type(airstrike, ground assault, cyber attack), organization(iran, hamas), casualties(Int), damage(Int)
+Covert Agent | id(string), status(string), site(string), importance(int), gender(string), activity(track driver, engineer, mechanic), origin(string), cost(int)
+
