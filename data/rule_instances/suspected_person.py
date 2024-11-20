@@ -19,7 +19,6 @@ rule_instance_suspected_person = [
         "address": "empty",
         "severity": 3,
     },
-
     {
         "rule_instance": "Suspected Person - Organization",
         "object_name": "Person",
